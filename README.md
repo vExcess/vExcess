@@ -1,8 +1,5 @@
 # Hi There, I'm Vincent!
-I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a lot of cool projects. My main one is <a href="https://vxsacademy.org/" target="_blank">https://vxsacademy.org/</a>
-
-## Random Facts
-I use Linux Mint, VS Code. I avoid using frameworks because they make projects bloated.
+I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a lot of cool projects. My main one is <a href="https://vxsacademy.org/" target="_blank">https://vxsacademy.org/</a>. I use Linux Mint, VS Code. I avoid using frameworks because they make projects bloated.
 
 ## List of projects I may or may not ever finish
 <ul>
@@ -15,6 +12,4 @@ I use Linux Mint, VS Code. I avoid using frameworks because they make projects b
     <li>wasmdos - An operating system that is fully web assembly compatible so that you can spin up a virtual desktop in your browser</li>
 </ul>
 
-<h2>Here's some cool stats</h2>
 <img hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10" alt="Top Langs">
-<img hspace="16" src="https://github-readme-stats.vercel.app/api?username=vExcess" alt="stats">

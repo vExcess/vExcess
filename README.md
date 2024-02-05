@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10" alt="Top Langs">
 
-<!--
-**vExcess/vExcess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There, I'm Vincent!</h1>
+<p>I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a lot of cool projects. My main one is <a href="https://vxsacademy.org/" target="_blank">https://vxsacademy.org/</a></p>
 
-Here are some ideas to get you started:
+<h2>Random Facts</h2>
+<p>I use Linux Mint, VS Code. I avoid using frameworks because they make projects bloated.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>List of projects I may or may not ever finish</h2>
+<ul>
+    <li>vxsacademy - A website where anyone can learn to code and create and share projects in various langauges for free.</li>
+    <li>TuxTaskManager - Windows styled task manager for Linux</li>
+    <li>codeli - Lightweight code editor</li>
+    <li>Newwrite - An language model that converts text to a simplified version of English and vice-versa</li>
+    <li>Zig HTML Canvas - HTML's canvas is so great I wanted to make a native version of it</li>
+    <li>JITLang - The best programming language ever. It's like if you mixed JavaScript, Rust, Java, C++, Swift, and Zig all into one language.</li>
+    <li>wasmdos - An operating system that is fully web assembly compatible so that you can spin up a virtual desktop in your browser</li>
+</ul>
+
+<h2>Here's some more cool stats</h2>
+<img hspace="16" src="https://github-readme-stats.vercel.app/api?username=vExcess" alt="stats">

@@ -1,7 +1,7 @@
-<div align="left">
-    <img width="300" hspace="12" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10" alt="Top Langs">
+<div align="left" hspace="12">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10" alt="Top Langs">
     <br>
-    <img width="300" hspace="12" src="https://github-readme-stats.vercel.app/api?username=vExcess" alt="Top Langs">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=vExcess" alt="Top Langs">
 </div>
 
 # Hi There, I'm Vincent!

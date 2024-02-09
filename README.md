@@ -1,9 +1,7 @@
 <img align="left" hspace="12" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10" alt="Top Langs">
 <br>
-<img align="left" hspace="12" width="300" src="https://github-readme-stats.vercel.app/api?username=vExcess" alt="Top Langs">
-<br>
 
-<div>
+<div align="right">
 <h2>Hi There, I'm Vincent!</h2>
 I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a lot of cool projects. My main one is <a href="https://vxsacademy.org/" target="_blank">https://vxsacademy.org/</a>. I use Linux Mint, VS Code. I avoid using frameworks because they make projects bloated.
 

@@ -7,7 +7,6 @@ I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a 
 <ul>
     <li>vxsacademy - A website where anyone can learn to code and create and share projects in various langauges for free.</li>
     <li>Zig HTML Canvas - HTML's canvas is so great I wanted to make a native version of it</li>
-    <li>JITLang - The best programming language ever. It's like if you mixed JavaScript, Rust, Java, C++, Swift, and Zig all into one language.</li>
     <li>Newwrite - An language model that converts text to a simplified version of English and vice-versa</li>
     <li>wasmdos - An operating system that is fully web assembly compatible so that you can spin up a virtual desktop in your browser</li>
     <li>TuxTaskManager - Windows styled task manager for Linux</li>

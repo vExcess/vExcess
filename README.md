@@ -10,5 +10,4 @@ I'm mainly a full stack web developer, but I also enjoy coding in Zig. I have a 
     <li>Newwrite - An language model that converts text to a simplified version of English and vice-versa</li>
     <li>wasmdos - An operating system that is fully web assembly compatible so that you can spin up a virtual desktop in your browser</li>
     <li>TuxTaskManager - Windows styled task manager for Linux</li>
-    <li>codeli - Lightweight code editor</li>
 </ul>

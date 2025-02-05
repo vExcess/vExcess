@@ -5,8 +5,8 @@ I'm a self taught full stack web developer who enjoys programming in JavaScript,
 
 <h3>List of projects I may or may not ever finish</h3>
 <ul>
-    <li><a href="https://vxsacademy.org/" target="_blank">vxsacademy.org</a> - A website where anyone can learn to code and create + share projects in various languages for free.</li>
-    <li><a href="https://github.com/orgs/zwebsuite/repositories" target="_blank">zwebsuite</a> - A suite of web related libraries written in Zig. Includes HTML + CSS parser, and native implementation of HTML Canvas.</li>
+    <li><a href="https://vxsacademy.org/" target="_blank">vxsacademy.org</a> - A website where anyone can learn to code and create + share projects in various languages for free (currently offline because security vulnerabilities).</li>
+    <li><a href="https://github.com/librepaint/" target="_blank">LibrePaint</a> - A FOSS clone of MS Paint 3D and related graphics libraries.</li>
     <li>Newwrite - A language model that converts text to a simplified version of English and vice-versa (currently on hold because my understanding of creating LLMs using Tensorflow.js isn't that great)</li>
     <li>TuxTaskManager - Windows styled task manager for Linux (paused development because my Rust code has a memory leak that I can't find. Will eventually rewrite in Zig or Dart.)</li>
 </ul>

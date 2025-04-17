@@ -1,4 +1,4 @@
-<img align="left" hspace="12" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10&cache=5" alt="Top Langs">
+<img align="left" hspace="12" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vExcess&langs_count=10&cache=6" alt="Top Langs">
 
 <h3>Hi There, I'm Vincent!</h3>
 I'm a self taught, self proclaimed, full-stack web developer who enjoys programming in JavaScript, Dart, and Zig. My choice OS: Linux Mint, IDE: VS Code, WebFramework: Svelte. My current passion project is creating a FOSS clone of MS Paint 3D.

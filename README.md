@@ -2,7 +2,7 @@
 <img align="left" hspace="12" width="300" src="https://raw.githubusercontent.com/vExcess/vExcess/refs/heads/main/lang-stats.webp" alt="Top Langs">
 
 <h3>Hi There, I'm Vincent!</h3>
-I'm a self proclaimed full-stack web developer who enjoys programming in JavaScript, Dart, and Zig. My choice OS: Linux Mint, IDE: VS Code, WebFramework: Svelte. My current passion project is creating a FOSS clone of MS Paint 3D.
+I'm an open-source full-stack web developer who enjoys programming in JavaScript, Dart, and Zig. My choice OS: Linux Mint, IDE: VS Code, WebFramework: Svelte. My current passion project is creating a FOSS clone of MS Paint 3D.
 
 <h3>Here are some projects I may or may not ever finish:</h3>
 <ul>
